@@ -6,12 +6,12 @@ para el análisis de datos.
 
 # Redes y Comunidades
 #### Pagina    => https://lorenzoreyes.dev
-#### Twitch    =>
-#### Youtube   =>
-#### Facebook  =>
-#### Twitter   =>
+#### Twitch    => https://www.twitch.tv/2pesos_lorenzoreyes
+#### Youtube   => https://www.youtube.com/channel/UCU6-WSlGv3hMsvsH8aFn0BQ
+#### Facebook  => https://www.facebook.com/groups/1385919778888014
+#### Twitter   => https://twitter.com/lorenzoreyes_x
 #### Discord   =>
-#### Instagram =>
+#### Instagram => https://www.instagram.com/_lorenzoreyes_/
 
 
 ### Episodios: [sujeto a cambios paso-a-paso]
