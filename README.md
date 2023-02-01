@@ -5,13 +5,13 @@ aplicarlo en su uso en finanzas, al ser una herramienta idonea
 para el análisis de datos.
 
 # Redes y Comunidades
-* [Pagina Personal] (https://lorenzoreyes.dev)
-* [Twitch - 2pesos_lorenzoreyes] (https://www.twitch.tv/2pesos_lorenzoreyes)
-* [Youtube] (https://www.youtube.com/channel/UCU6-WSlGv3hMsvsH8aFn0BQ)
-* [Facebook - Finanzas.py # Finanzas + Programacion] (https://www.facebook.com/groups/1385919778888014)
-* [Twitter- lorenzoreyes_x] (https://twitter.com/lorenzoreyes_x)
+* [Pagina Personal (https://lorenzoreyes.dev)]
+* [Twitch - 2pesos_lorenzoreyes (https://www.twitch.tv/2pesos_lorenzoreyes)]
+* [Youtube (https://www.youtube.com/channel/UCU6-WSlGv3hMsvsH8aFn0BQ)]
+* [Facebook - Finanzas.py # Finanzas + Programacion (https://www.facebook.com/groups/1385919778888014)]
+* [Twitter- lorenzoreyes_x (https://twitter.com/lorenzoreyes_x)]
 * Discord   =>
-* [Instagram - _lorenzoreyes_] (https://www.instagram.com/_lorenzoreyes_/)
+* [Instagram - _lorenzoreyes_ (https://www.instagram.com/_lorenzoreyes_/)]
 
 
 ### Episodios: [sujeto a cambios paso-a-paso]
