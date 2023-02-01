@@ -1,4 +1,4 @@
-# Finanzas.py ó como aprendi a programarme
+# Finanzas.py o Cómo aprendi a programarme
 
 Una caminata para aprender Python, ver desde sus bases hasta
 aplicarlo en su uso en finanzas, al ser una herramienta idonea
