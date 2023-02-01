@@ -10,7 +10,7 @@ para el análisis de datos.
 * [Youtube](https://www.youtube.com/channel/UCU6-WSlGv3hMsvsH8aFn0BQ)
 * [Facebook - Finanzas.py # Finanzas + Programacion](https://www.facebook.com/groups/1385919778888014)
 * [Twitter- lorenzoreyes_x](https://twitter.com/lorenzoreyes_x)
-* Discord   =>
+* [Discord Server - Finanzas.py](https://discord.gg/gQUsFDcS)
 * [Instagram - _lorenzoreyes_](https://www.instagram.com/_lorenzoreyes_/)
 
 
