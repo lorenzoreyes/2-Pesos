@@ -5,13 +5,13 @@ aplicarlo en su uso en finanzas, al ser una herramienta idonea
 para el análisis de datos.
 
 # Redes y Comunidades
-Pagina    => https://lorenzoreyes.dev
-Twitch    =>
-Youtube   =>
-Facebook  =>
-Twitter   =>
-Discord   =>
-Instagram =>
+#### Pagina    => https://lorenzoreyes.dev
+#### Twitch    =>
+#### Youtube   =>
+#### Facebook  =>
+#### Twitter   =>
+#### Discord   =>
+#### Instagram =>
 
 
 ### Episodios: [sujeto a cambios paso-a-paso]
