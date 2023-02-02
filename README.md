@@ -4,7 +4,8 @@ Una caminata para aprender Python, ver desde sus bases hasta
 aplicarlo en su uso en finanzas, al ser una herramienta idonea
 para el análisis de datos.
 
-# Redes y Comunidades
+# Redes 
+```bash
 * [Pagina Personal](https://lorenzoreyes.dev)
 * [Twitch - 2pesos_lorenzoreyes](https://www.twitch.tv/2pesos_lorenzoreyes)
 * [Youtube](https://www.youtube.com/channel/UCU6-WSlGv3hMsvsH8aFn0BQ)
@@ -12,7 +13,7 @@ para el análisis de datos.
 * [Twitter- lorenzoreyes_x](https://twitter.com/lorenzoreyes_x)
 * [Discord Server - Finanzas.py](https://discord.gg/gQUsFDcS)
 * [Instagram - _lorenzoreyes_](https://www.instagram.com/_lorenzoreyes_/)
-
+```
 
 ### Episodios: [sujeto a cambios paso-a-paso]
 0 - Las bases. Se ve "Python for Everybody" de Charles Severance University of Michigan
