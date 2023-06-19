@@ -1,7 +1,8 @@
 # 2-Pesos o Cómo aprendi a programarme y mi opinion si empezara de nuevo
 
-Una caminata para aprender Python, ver desde sus bases hasta
-aplicarlo en su uso en finanzas, al ser una herramienta idonea
+Una caminata para aprender Python, como aprender a tocar un instrumento musical, 
+aprender a programar se tiene que hacer a través de desafios, ver que utililidad diaria
+dia a dia tiene aprender a programar y aplicarlo en finanzas, al ser una herramienta idonea
 para el análisis de datos.
 
 - Intereses: Finanzas, Derecho, Seguridad y Cine
